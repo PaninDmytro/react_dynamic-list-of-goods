@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,WACE,SAAqB,CACtB,aAGC,WAAqB,CACtB,YAGC,UAAqB","file":"main.4ecf3163.chunk.css","sourcesContent":[".redButton {\n  color: rgb(255, 0, 0);\n}\n\n.greenButton {\n  color: rgb(0, 128, 0);\n}\n\n.blueButton {\n  color: rgb(0, 0, 255);\n}\n"]}
